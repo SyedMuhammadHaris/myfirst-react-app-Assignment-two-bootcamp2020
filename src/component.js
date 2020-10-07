@@ -1,6 +1,6 @@
 import React from 'react';
 
-function firstComponent(){
+function FirstComponent (){
     return (
       <div>
          <h1>Hello World from Child Component </h1>
@@ -8,4 +8,4 @@ function firstComponent(){
     );
 }
 
-export default firstComponent;
+export default FirstComponent;
