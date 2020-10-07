@@ -5,10 +5,13 @@ import FirstComponent from './component.js';
 function App() {
   return (
     <div className="App">
-     <h1>Hello World Learning React</h1>
-     <h1>Hello World Learning  JavaScript Libary</h1>
+     <h1>Learning React</h1>
+     <h1> Learning  Component And Props In React</h1>
+     <hr/>
      <FirstComponent student = "Haris"/>
+     <hr/>
      <FirstComponent student = "Ahmed"/>
+     <hr/>
      <FirstComponent student = "Sarim"/>
     </div>
   );
