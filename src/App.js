@@ -7,7 +7,9 @@ function App() {
     <div className="App">
      <h1>Hello World Learning React</h1>
      <h1>Hello World Learning  JavaScript Libary</h1>
-     <FirstComponent />
+     <FirstComponent student = "Haris"/>
+     <FirstComponent student = "Ahmed"/>
+     <FirstComponent student = "Sarim"/>
     </div>
   );
 }
